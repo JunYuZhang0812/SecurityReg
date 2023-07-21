@@ -1,0 +1,13 @@
+H:\SelfWork\SecurityReg\SecurityReg\SecurityReg\bin\Debug\SecurityReg.exe
+H:\SelfWork\SecurityReg\SecurityReg\SecurityReg\bin\Debug\SecurityReg.pdb
+H:\SelfWork\SecurityReg\SecurityReg\SecurityReg\obj\Debug\SecurityReg.csprojAssemblyReference.cache
+H:\SelfWork\SecurityReg\SecurityReg\SecurityReg\obj\Debug\SecurityReg.Properties.Resources.resources
+H:\SelfWork\SecurityReg\SecurityReg\SecurityReg\obj\Debug\SecurityReg.SecurityReg.resources
+H:\SelfWork\SecurityReg\SecurityReg\SecurityReg\obj\Debug\SecurityReg.csproj.GenerateResource.cache
+H:\SelfWork\SecurityReg\SecurityReg\SecurityReg\obj\Debug\SecurityReg.csproj.CoreCompileInputs.cache
+H:\SelfWork\SecurityReg\SecurityReg\SecurityReg\obj\Debug\SecurityReg.exe
+H:\SelfWork\SecurityReg\SecurityReg\SecurityReg\obj\Debug\SecurityReg.pdb
+H:\SelfWork\SecurityReg\SecurityReg\SecurityReg\bin\Debug\SecurityReg.exe.manifest
+H:\SelfWork\SecurityReg\SecurityReg\SecurityReg\bin\Debug\SecurityReg.application
+H:\SelfWork\SecurityReg\SecurityReg\SecurityReg\obj\Debug\SecurityReg.exe.manifest
+H:\SelfWork\SecurityReg\SecurityReg\SecurityReg\obj\Debug\SecurityReg.application
